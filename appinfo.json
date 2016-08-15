@@ -1,0 +1,28 @@
+{
+  "appKeys": {},
+  "resources": {
+    "media": [
+    {
+    "type":"raw",
+    "name":"ANIMATION4",
+    "file":"images/animation.png"
+    }]
+  },
+  "capabilities": [
+    ""
+  ],
+  "companyName": "Timehop",
+  "longName": "Dancing ABE Watchface",
+  "projectType": "native",
+  "shortName": "Dancing ABE",
+  "uuid": "753e4785-a450-4855-864c-1bfa4b79f000",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "targetPlatforms": [
+    "basalt"
+  ],
+  "sdkVersion": "3"
+}
